@@ -160,7 +160,7 @@ const Footer = () => {
 
           <div className="mt-16">
 
-            <h1 className="text-center font-extrabold text-[clamp(4rem,12vw,9rem)] text-transparent opacity-[0.3] select-none">
+            <h1 className="text-center font-extrabold sm:text-[clamp(4rem,12vw,9rem)] text-[clamp(2rem,6vw,4rem)] text-transparent opacity-[0.3] select-none">
               <span
                 style={{
                   WebkitTextStroke:
