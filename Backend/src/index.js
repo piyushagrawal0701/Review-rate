@@ -17,6 +17,8 @@ app.use(
   cors({
     origin: [
       "https://reviewrate.netlify.app",
+      "https://review-rate-eosin.vercel.app",
+      "https://review-rate-eosin.vercel.app/api/v1",
       "http://localhost:3000",
       "http://localhost:5173",
     ],
